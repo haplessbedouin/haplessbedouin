@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @haplessbedouin
-- 👀 I’m interested in 3d design python html website 
+- 👀 I’m interested in Java
 
 <!---
 haplessbedouin/haplessbedouin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
